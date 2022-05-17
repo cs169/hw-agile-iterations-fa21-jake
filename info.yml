@@ -1,0 +1,22 @@
+project:
+  name: 'ActionMapjake'
+  owner: 'governify'
+  teamId: 'jake'
+  identities:
+    pivotal:
+      url: 'https://www.pivotaltracker.com/n/projects/2569370'
+    heroku:
+      url: 'https://jeongsuapp.herokuapp.com'
+  members:
+    member1:
+      name: 'Governify'
+      surname: 'Auditor' 
+      githubUsername: 'governifyauditor'
+      pivotalUsername: 'governifyauditor'
+      herokuEmail: 'governify.auditor@gmail.com'
+    member2:
+      name: 'Jake'
+      surname: 'Kim'
+      githubUsername: 'jkim83332'
+      pivotalUsername: 'jakekim1'
+      herokuEmail: 'jkim83332@berkeley.edu'  
